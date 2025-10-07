@@ -4,7 +4,8 @@
 
 このツールは、神経衰弱カードのアイコンセットのように、1枚の画像内にグリッド状に配置された複数の要素を、それぞれ個別のファイルとして正確に切り出すことを目的として開発されました。
 
-![サンプル画像](https://samurai-human-go.com/picture/etc_computer_8bit.png)  ---
+![サンプル画像](https://samurai-human-go.com/picture/etc_computer_8bit.png)
+---
 
 ## ✨ 主な機能
 
@@ -64,5 +65,11 @@
 
 ## 📜 ライセンス
 
-このプロジェクトは MIT License のもとで公開されています。
-詳細については、[LICENSE](LICENSE) ファイルをご覧ください。 
+このプロジェクトは **MIT License** のもとで公開されています。ライセンスの全文については、[LICENSE](LICENSE) ファイルをご覧ください。
+
+また、このプロジェクトはサードパーティ製のライブラリを利用しています。これらのライブラリのライセンス情報については、[NOTICE.md](NOTICE.md) ファイルに記載しています。
+
+## 作成者
+[Samurai-Human-Go](mailto:gotechsamurai@samurai-human-go.com)
+
+**ブログ記事**: [単なる画像分割じゃない！位置解析で均一なカード画像を切り出すスクリプト開発記](https://samurai-human-go.com/python-opencv-image-slicing-logic/)
