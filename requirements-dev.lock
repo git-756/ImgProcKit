@@ -10,5 +10,10 @@
 #   universal: false
 
 -e file:.
+numpy==2.2.6
+    # via imgprockit
+    # via opencv-python
+opencv-python==4.12.0.88
+    # via imgprockit
 pillow==11.3.0
     # via imgprockit
