@@ -4,6 +4,7 @@
 
 このツールは、神経衰弱カードのアイコンセットのように、1枚の画像内にグリッド状に配置された複数の要素を、それぞれ個別のファイルとして正確に切り出すことを目的として開発されました。
 
+sample image
 ![サンプル画像](https://samurai-human-go.com/picture/etc_computer_8bit.png)
 ---
 
